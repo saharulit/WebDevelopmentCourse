@@ -1,0 +1,67 @@
+body 
+{
+    direction:rtl;
+     background-image: url('../images/background.jpg');
+     /*background-image: url('../images/Education.png');*/
+     /*background-image: url('../images/facebook1.png');*/
+     /*background-image: url('../images/hobbies.png');*/
+     /*background-image: url('../images/telephone1_icon.png');*/
+     /*background-image: url('../images/women.svg');
+     background-image: url('../images/Suitcase.png');*/
+     background-repeat:repeat no-repeat no-repeat no-repeat no-repeat no-repeat;
+
+}
+#container{
+    width:700px;
+    margin: 0 auto; 
+}
+#container {
+   
+}
+.squre {
+    background-color: white;
+    margin: 20px;
+    padding: 15px;
+}
+h1{
+    color: white;
+    font-size: 40pt;
+}
+h2{
+    font-size: 24pt;
+    margin: 20px;
+    color: purple;
+  
+}
+p{
+    margin: 10px;
+    font-size: 15pt;
+    text-align: center;
+    padding: 5px
+}
+
+.icon{
+        width: 60px;
+    height: 60px;
+float: right;
+}
+#face{
+    margin: -30px;
+    transition: all .2s ease-in-out;
+}
+#face:hover{
+    transform: scale(1.5);
+}
+ul{
+    list-style-type:none;
+    
+}
+p:last-child{
+padding:30px;
+}
+li{
+    margin: 5px;
+}
+.txt{
+        line-height: 1.5;
+}
